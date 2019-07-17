@@ -1,0 +1,76 @@
+.banner {
+  background-image: url("https://source.unsplash.com/random/1600x900");
+/*  background-size: cover;
+*/  padding: 120px 0;
+}
+
+.container {
+  width: 700px;
+  margin: 50px auto;
+}
+
+.nav-bar {
+  list-style: none;
+  padding-left: 0px;
+}
+
+.nav-bar a {
+  text-decoration: none;
+  color: grey;
+}
+
+.nav-bar a:hover {
+  text-decoration: none;
+  color: black;
+}
+
+.nav-bar > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+h1, h2 {
+  color: white;
+  font-family: 'Lato', sans-serif;
+}
+
+h2 {
+  font-size: 1.5em;
+}
+
+h3 {
+  color: grey;
+  font-family: 'Lato', sans-serif;
+}
+
+
+body {
+  background: white;
+  color: grey;
+  font-family: 'Lora', serif;
+  font-size: 17px;
+  font-weight: lighter;
+  text-align: center;
+  line-height: 1.6;
+}
+
+.social_links {
+  font-size: 50px;
+  list-style: none;
+  padding-left: 0px;
+}
+
+
+.social_links > li {
+  display: inline-block;
+  padding: 0px 10px;
+}
+
+.social_links i {
+  color: rgb(230, 230, 230);
+}
+
+.social_links i:hover {
+  color: black;
+}
+
